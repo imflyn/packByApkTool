@@ -1,1 +1,1 @@
-# packByApkTool
+Android使用ApkTool打包，动态修改AndroidManifest中Meta-data的value
